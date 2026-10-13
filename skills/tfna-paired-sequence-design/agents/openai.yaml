@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paired tFNA Sequence Design"
+  short_description: "Validate, edit and score paired tFNA DNA designs"
+  default_prompt: "Use $tfna-paired-sequence-design to validate these four-strand constructs and reproduce their saved screening scores."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "DNA Sequence Model Benchmark"
+  short_description: "Nested DNA regression benchmarks with audited OOF metrics"
+  default_prompt: "Use $dna-sequence-model-benchmark to compare models on my DNA sequences and aligned features with family-grouped tuning and held-out metrics."

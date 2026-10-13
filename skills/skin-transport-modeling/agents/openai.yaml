@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skin Transport Modeling"
+  short_description: "Reproduce and audit finite-volume skin transport"
+  default_prompt: "Use $skin-transport-modeling to reproduce a skin transport model and verify its inputs, units, and numerical outputs."
